@@ -1,0 +1,34 @@
+_repo: '-------------------------13-------------------_34132'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nirvanas, Paulos
+    aliases:
+    - Nirbanas, Paulos
+    - Νιρβανας, Παυλος
+    - Νιρβάνας, Παύλος
+    - Nirvanas, Pavlos
+    - Apostolides, Petros
+    - Αποστολιδης, Πετρος
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '35713'
+    url: http://www.gutenberg.org/2009/agents/35713
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82_%CE%9D%CE%B9%CF%81%CE%B2%CE%AC%CE%BD%CE%B1%CF%82
+description: ''
+gutenberg_issued: '2010-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34132'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PA'
+title: 'Όταν σπάση τα δεσμά του: Δράμα σε μέρη τρία'
+url: http://www.gutenberg.org/ebooks/34132
